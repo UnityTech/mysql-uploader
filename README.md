@@ -1,7 +1,7 @@
 mysql-uploader
 =======
 
-Fast upload of a Parquet data to MySQL.
+Fast upload of Parquet data to MySQL.
 
 For fast upload we do the following:
   1. Batch into target number of CSV files
